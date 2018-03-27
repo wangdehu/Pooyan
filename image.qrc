@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/Picture">
+        <file>img/background.jpg</file>
+        <file>img/arrow1.png</file>
+        <file>img/arrow2.png</file>
+        <file>img/background2.jpg</file>
+        <file>img/ball1.png</file>
+        <file>img/pigmum.png</file>
+        <file>img/pooyan_blue1.png</file>
+        <file>img/pooyan_pink0.png</file>
+        <file>img/testwolf.png</file>
+        <file>img/wolf.png</file>
+        <file>img/wolf0.png</file>
+        <file>img/ball2.png</file>
+        <file>img/Start.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>mp3/bk0.mp3</file>
+        <file>mp3/bk1.mp3</file>
+        <file>mp3/py.mp3</file>
+        <file>mp3/shot.mp3</file>
+    </qresource>
+</RCC>
